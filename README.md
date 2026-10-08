@@ -1,4 +1,14 @@
-# RNA Polymerase Metamap — Mouse
+
+
+<p align="center">
+
+<img src="images/RNAP_Metamap_Mouse-Logo.png" width="800px"/>
+
+</p>
+
+# Overview:
+
+We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol) I, II, and III occupancies using ChIP-seq experiments performed in mouse tissues and cell lines, facilitating unbiased annotation of polymerase occupancy and overlap. 
 
 [![Open in IGV](https://img.shields.io/badge/Open%20in%20IGV-Metamap%20Viewer-0275d8?style=for-the-badge&logo=dna&logoColor=white)](https://igv.org/app/?sessionURL=blob:xVdtb9s2EP4rBj.1gEqJlm1Z_pZ4m2EgaYME69YOgUFLjERMIj2SipoG.e87SrSjdvWLhiIxYJ_Ju3t49.ihQD6ie6Y0lwLNUIineIo8pHNZ39ByU7D3tGQaze5ooZmHFLtjiomEodkj4ilklGUYQ4KAMBhdykqzwZvF9Rymfet7C05Ty3Nufr..gIjcmI2e.X6epbIWhaQp1pLhKtEJZmnlZ7JImbiiJm_S_TXPPvONbgZ4uOYG8OpcFmzBhCzZR85qNDOqguKSByPXVKT_b6GUGrqmmvkW5hxglimT2HwxOPsKa9KCU_0TWkhyJcszC2axAbiZkBp6.aBSptDsLztFWs.wNWFrRq0Zt2bSmqg109bErSGBsw6HOCDikIiDIg6LODDi0IiDIw7vz9Z8Qreu4Bv.lf00OrC2aLBEXq21JWALybN7LFXmZ82z1r71tyDwz_F3bPkmZzH_zQ.CAL7En4RjO14F9kNghIfRDu_2yUOFTCooo.l_RqLAm44jL4yid83_aOIFI0unkhxqBUKMosnftu5HZB42dhto9k_V7BIPyfahvouDICJxPByPolEQx.TJe0SVKjr8KVrjjBuoBPaQSqQwTBicyNL_SMW5VKZgF3TtX78_28jioWQKxLoqmaEl3axKu_H8knJh.a15trrjBTAG6RupuWHf5i2Xy9XOhduM5118SqiF7xHuaBhDolQlNZC28znS2kEiCwmBSGXrN4E3ICP4GY7Hb9ELEaYTqX5AVjN9nKjvwg6R9F2oI2jSl6DR5GX52Suo0_XUT04H1BT1IotEI9BTRLzBK6vpNDGdrqU9Upr2YycEIZEwhJ9X19LJUuqlpANCivtRFdsXE.goDl5VSCfp6GQZ7VERCXrKKLKbzBu8HDXPKlpmiwPS2ePtELInYssEOcLEi0phuVjsef4_8HR7_K9321_4ev2x1DV3WRWGzwuq9ZU9FhumVn9wASc7jSGoc9E4Ftdp.WjsloBRl4DG47qnQkhDjb0jwYGT8SyHEDIMLCPNLQjuRXDmm1eKmm6V18304Hn.W_p6X01EsuaAebNb6vl.Ag2xL7DG9qa2awRKg.OzPYqmXG8K.nApU1vb_MPFxdnVza._NGfosltXXdfYLoVFUWLBc5zJe79t0ZmVZgVLjN99T9jPYcai4On26V8-)  
 *Middle-click or Cmd/Ctrl + click badge to open in a new tab*
